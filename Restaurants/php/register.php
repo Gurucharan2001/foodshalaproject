@@ -46,7 +46,7 @@
 			    <a href="#register-customer" class="nav-link text-light active text-bold" data-toggle="tab">Register As Customer</a>
 		    </li>
 		    <li class="nav-item">
-			    <a href="#register-owner" class="nav-link text-light text-bold" data-toggle="tab" >Register As Owner</a>
+			    <a href="#register-owner" class="nav-link text-light active text-bold" data-toggle="tab" >Register As Owner</a>
 		    </li>
 	    </ul>
 

@@ -46,7 +46,7 @@
 			    <a href="#login-customer" class="nav-link text-light active text-bold" data-toggle="tab">Login As Customer</a>
 		    </li>
 		    <li class="nav-item">
-			    <a href="#login-owner" class="nav-link text-light text-bold" data-toggle="tab">Login As Owner</a>
+			    <a href="#login-owner" class="nav-link text-light text-bold active" data-toggle="tab">Login As Owner</a>
 		    </li>
 	    </ul>
 

@@ -114,7 +114,7 @@
                         <div class="card-body">
                             <h4 class="inner-font">Matar Panner</h4>
                             <div class="food-img">
-                                <img src="img/matar-paneer.jpg" alt="matar-panner" />
+                                <img src="Restaurants/img/matar-paneer.jpg" alt="matar-panner" />
                             </div>
                             <p class="letter-space">Made with  Chicken,vegetables,sauce</p>
                             <p class="letter-space">Price: 100/</p>
