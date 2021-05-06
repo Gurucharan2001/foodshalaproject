@@ -36,8 +36,8 @@
                 <li class="nav-item"><a href="#" class="nav-link">Contact</a></li>
             </ul>
             <ul class="navbar-nav text-light ml-auto">
-                <li class="nav-item"><a href="php/register.php" class="nav-link">Register</a></li>
-                <li class="nav-item"><a href="php/login.php" class="nav-link">Login</a></li>
+                <li class="nav-item"><a href="Restaurants/php/register.php" class="nav-link">Register</a></li>
+                <li class="nav-item"><a href="Restaurants/php/login.php" class="nav-link">Login</a></li>
             </ul>
         </div>
     </nav>
@@ -72,7 +72,7 @@
                         <div class="card-body">
                             <h4 class="inner-font">Chicken Momo</h4>
                             <div class="food-img">
-                                <img src="img/momo.jpg" alt="momo" />
+                                <img src="Restaurants/img/momo.jpg" alt="momo" />
                             </div>
                             <p class="letter-space">Made with  Chicken,vegetables,sauce</p>
                             <p class="letter-space">Price: 100/</p>
@@ -85,7 +85,7 @@
                         <div class="card-body">
                             <h4 class="inner-font">Veg Burger</h4>
                             <div class="food-img">
-                                <img src="img/burger.jpg" alt="burger" />
+                                <img src="Restaurants/img/burger.jpg" alt="burger" />
                             </div>
                             <p class="letter-space">Made with  Chicken,vegetables,sauce</p>
                             <p class="letter-space">Price: 100/</p>
@@ -101,7 +101,7 @@
                         <div class="card-body">
                             <h4 class="inner-font">Chicken Chaomin</h4>
                             <div class="food-img">
-                                <img src="img/chaomin.jpg" alt="momo" />
+                                <img src="Restaurants/img/chaomin.jpg" alt="momo" />
                             </div>
                             <p class="letter-space">Made with  Chicken,vegetables,sauce</p>
                             <p class="letter-space">Price: 100/</p>
@@ -129,7 +129,7 @@
                         <div class="card-body">
                             <h4 class="inner-font">Pizza</h4>
                             <div class="food-img">
-                                <img src="img/pizza.jpg" alt="pizza" />
+                                <img src="Restaurants/img/pizza.jpg" alt="pizza" />
                             </div>
                             <p class="letter-space">Made with  Extra cheese,Chicken,vegetables,sauce</p>
                             <p class="letter-space">Price: 100/</p>
@@ -142,7 +142,7 @@
                         <div class="card-body">
                             <h4 class="inner-font">Edli</h4>
                             <div class="food-img">
-                                <img src="img/edli.jpg" alt="edli" />
+                                <img src="Restaurants/img/edli.jpg" alt="edli" />
                             </div>
                             <p class="letter-space">Made with  Chicken,vegetables,sauce</p>
                             <p class="letter-space">Price: 100/</p>
