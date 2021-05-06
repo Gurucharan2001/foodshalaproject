@@ -14,6 +14,7 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="../../common_files/css/animate.css" />
     <link rel="stylesheet" href="../css/index.css" />
+    <link rel="stylesheet" href="../css/login.css" />
     <script src="../js/index.js"></script>
     <script src="../js/check_customer.js"></script>
     <script src="../js/register_customer.js"></script>
